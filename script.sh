@@ -1,3 +1,3 @@
 #!/bin/bash
 pwd
-cat /etc/os-release
+cat /etc/os-release |  grep -i version
